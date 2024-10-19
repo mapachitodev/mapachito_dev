@@ -14,7 +14,6 @@
     🎮  Music • Games • Anime • Code • JSChile        
     🦝  Ask me any question, and if I don’t know the answer, we can figure it out together!
 </pre>
-
 <br><br>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTVyNThjYzUyaGoyZGxkYXRpb2h5emN0YmZwdGxjeW40bHk4NWk0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lOUlPQ2Ujtv1B0FWks/giphy.gif" height="60" />
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/konstanzabosch/) 
